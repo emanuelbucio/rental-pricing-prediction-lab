@@ -1,11 +1,6 @@
-# rental-pricing-explore
-
-Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) for this template. To complete this project, delete all template text (save for the headers) and fill in your own information.
-
-Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to analyze and predict an in-house dataset our Real Estate client collected. WWe will be determining how much the Real Estate company should charge for their rental properties  in Taipei City, Taiwan. The main goal is to develop a predictive model for rental pricing and recommend optimal pricing for the area. By providing this information, the Real Estate company will rent out their properties with appropiate price ranges in order to profit.
 
 ### Methods Used
 * Inferential Statistics
@@ -25,4 +20,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+The project focuses on predicting rental prices for residential properties in Taipei City, Taiwan. The goal is to provide accurate and reliable estimates of rental costs to assist potential tenants and property owners in making informed decisions.
+My data sources are what the the Real Estate company has provided on a Excel sheet.
+The project employs Univariate and Bivariate Exploratory Models along with Boxplots, Scatterplots and Barcharts to visualize the data obtained
+The challenges we are facing is ensuring the dataset is cleqan and representative of the rental market and interpretability tp provide meaningful insights to end-users.
